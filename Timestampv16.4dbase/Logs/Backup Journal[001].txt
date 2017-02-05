@@ -1,0 +1,6 @@
+*** Full Backup
+Creating archive : Macintosh HD:Users:balinderwalia:Documents:4D Databases:4Dv14_Dev:Timestamp_4Dv14:Timestamp.4dbase:Timestamp[0001].4BK
+Scheduled 17/12/2013 16:07
+Starting 17/12/2013 16:07
+Ending 17/12/2013 16:07
+
